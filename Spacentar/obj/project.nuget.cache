@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+kvKB+iEZ2JTgf73aGOC/oywn4gZIFjsnKvfG1AGph+FWr/+MEgUS6DQ3PnXoMl/xKC+XF9qnE9ZkVoeIbMaQ==",
+  "dgSpecHash": "LtnCMqgnmVeSqpA5e9EqKI8ZNchr1LJNFwQyeVg2ohcR7OsFPJk1IXQ1abf4qzOBr4NyB4foFKbGjonTVUVGwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Students\\Desktop\\Uchilishte\\Spacentar\\Spacentar\\Spacentar.csproj",
+  "projectFilePath": "C:\\Users\\Students\\Desktop\\Spacentar\\Spacentar\\Spacentar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Students\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Students\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.14\\microsoft.aspnetcore.cryptography.internal.5.0.14.nupkg.sha512",

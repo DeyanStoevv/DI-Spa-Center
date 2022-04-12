@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Students\\Desktop\\Uchilishte\\Spacentar\\Spacentar\\Spacentar.csproj": {}
+    "C:\\Users\\Students\\Desktop\\Spacentar\\Spacentar\\Spacentar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Students\\Desktop\\Uchilishte\\Spacentar\\Spacentar\\Spacentar.csproj": {
+    "C:\\Users\\Students\\Desktop\\Spacentar\\Spacentar\\Spacentar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Students\\Desktop\\Uchilishte\\Spacentar\\Spacentar\\Spacentar.csproj",
+        "projectUniqueName": "C:\\Users\\Students\\Desktop\\Spacentar\\Spacentar\\Spacentar.csproj",
         "projectName": "Spacentar",
-        "projectPath": "C:\\Users\\Students\\Desktop\\Uchilishte\\Spacentar\\Spacentar\\Spacentar.csproj",
+        "projectPath": "C:\\Users\\Students\\Desktop\\Spacentar\\Spacentar\\Spacentar.csproj",
         "packagesPath": "C:\\Users\\Students\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Students\\Desktop\\Uchilishte\\Spacentar\\Spacentar\\obj\\",
+        "outputPath": "C:\\Users\\Students\\Desktop\\Spacentar\\Spacentar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Students\\AppData\\Roaming\\NuGet\\NuGet.Config",
