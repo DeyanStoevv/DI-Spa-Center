@@ -22,7 +22,10 @@ namespace Spacentar.Controllers
         {
             return View();
         }
-
+        public IActionResult Home()
+        {
+            return View("View");
+        }
         public IActionResult Privacy()
         {
             return View();

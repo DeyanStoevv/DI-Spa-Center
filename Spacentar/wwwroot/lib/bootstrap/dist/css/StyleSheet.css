@@ -1,0 +1,51 @@
+﻿.b1 {
+    background-image: url(../Images/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.b2 {
+    background-image: url(../Images/DA.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.b3 {
+    background-image: url(../Images/3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.b4 {
+    background-image: url(../Images/4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.b5 {
+    background-image: url(../Images/5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.b6 {
+    background-image: url(../Images/6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+table {
+    background: rgba(255,255,255,0.6);
+}
+footer {
+    background-color:white  ;
+
+
+
+}
+b1, b2 p,h1 {
+    color:white
+}
+ .p1 {
+    color: white
+}
